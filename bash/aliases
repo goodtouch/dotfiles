@@ -13,3 +13,5 @@ function railsapp {
 
 # misc
 alias reload='. ~/.bash_profile'
+
+alias java=/System/Library/Frameworks/JavaVM.framework/Versions/1.6/Commands/java
