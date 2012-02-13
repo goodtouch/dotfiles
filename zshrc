@@ -3,5 +3,4 @@
 . ~/.zsh/completion
 
 # use .localrc for settings specific to one system
-[[ -f ~/.localrc ]] && .  ~/.localrc
-[ -s ~/.rvm/scripts/rvm ] && . ~/.rvm/scripts/rvm
+[[ -f ~/.localrc ]] && . ~/.localrc
